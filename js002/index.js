@@ -1,51 +1,51 @@
 
-// let firstName = "Lalbabu"
-// let lastName = "Prasad"
+let firstName = "Lalbabu"
+let lastName = "Prasad"
 
-// let fullName = firstName + " " + lastName
-// console.log(fullName)
-
-
-// let name = "Linda"
-// let greeting = "Hi there"
-
-// function my(){
-//     console.log(greeting+"," +" "+ name+"!")
-
-// }
-
-// my()
+let fullName = firstName + " " + lastName
+console.log(fullName)
 
 
-// let myPoints  = 3
+let name = "Linda"
+let greeting = "Hi there"
 
-// function add3Points(){
-//     myPoints = myPoints+3
+function my(){
+    console.log(greeting+"," +" "+ name+"!")
 
-// }
+}
 
-// function removePoints(){
-//     myPoints = myPoints-1
-
-// }
-
-// add3Points()
-// add3Points()
-// add3Points()
-
-// removePoints()
-// removePoints()
+my()
 
 
-// console.log(myPoints)
+let myPoints  = 3
 
-// let purchagePrice = document.getElementById("error")
+function add3Points(){
+    myPoints = myPoints+3
 
-// function purchages(){
-//     purchagePrice.textContent = "something went wrong. Please try Again!"
-// }
+}
 
-// calculator challenge
+function removePoints(){
+    myPoints = myPoints-1
+
+}
+
+add3Points()
+add3Points()
+add3Points()
+
+removePoints()
+removePoints()
+
+
+console.log(myPoints)
+
+let purchagePrice = document.getElementById("error")
+
+function purchages(){
+    purchagePrice.textContent = "something went wrong. Please try Again!"
+}
+
+calculator challenge
 
 let num1= 8
 let num2 = 5
