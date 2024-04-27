@@ -1,0 +1,16 @@
+
+
+#c{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#Purchage{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 0;
+    width: 40%;
+    font-weight: 600;
+}
